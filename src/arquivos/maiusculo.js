@@ -1,0 +1,1 @@
+module.exports = (msg) => msg.length < 5 ? msg.toUpperCase() : `Top ${msg.toUpperCase()}`;

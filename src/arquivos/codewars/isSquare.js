@@ -1,0 +1,1 @@
+module.exports = (n) => Number.isInteger(Math.sqrt(n));
