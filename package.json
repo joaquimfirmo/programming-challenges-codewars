@@ -5,7 +5,7 @@
   "main": "index.js",
   "jest": {
     "collectCoverage": true,
-    "collectCoverageFrom":["./src/arquivos/**"],
+    "collectCoverageFrom":["./src/files/**"],
     "coverageDirectory":"./src/coverage"
   },
   "scripts": {

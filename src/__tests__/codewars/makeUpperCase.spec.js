@@ -1,4 +1,4 @@
-const makeUpperCase = require("../../arquivos/codewars/makeUpperCase");
+const makeUpperCase = require("../../files/codewars/makeUpperCase");
 
 
 

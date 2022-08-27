@@ -1,4 +1,4 @@
-const XO = require('../../arquivos/codewars/XO');
+const XO = require('../../files/codewars/XO');
 
 test('Deve retornar true ao passar uma string com mesmo numero de "xs" e "os" como paramentro da funcao',() => {
     const str = 'xoxoxoAA';

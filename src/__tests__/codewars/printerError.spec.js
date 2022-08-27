@@ -1,4 +1,4 @@
-const printerError = require("../../arquivos/codewars/printerError")
+const printerError = require("../../files/codewars/printerError")
 
 
 

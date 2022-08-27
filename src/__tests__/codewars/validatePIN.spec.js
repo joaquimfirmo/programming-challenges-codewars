@@ -1,4 +1,4 @@
-const validatePIN = require("../../arquivos/codewars/validatePIN");
+const validatePIN = require("../../files/codewars/validatePIN");
 
 
 describe("VALIDACAO DE CODIGOS PIN", () => {

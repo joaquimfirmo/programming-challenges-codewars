@@ -1,4 +1,4 @@
-const hero =  require("../../arquivos/codewars/hero");
+const hero =  require("../../files/codewars/hero");
 
 
 test("Deve retornar true, se o numeros de balas do heroi foi o dobro do numero de dragoes", () => {

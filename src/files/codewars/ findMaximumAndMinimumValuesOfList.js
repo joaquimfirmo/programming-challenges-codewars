@@ -5,7 +5,7 @@
 
 module.exports = {
     min(list) {
-        return ath.min(...list);
+        return Math.min(...list);
     },
     max(list){
         return Math.max(...list);

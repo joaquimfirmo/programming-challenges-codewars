@@ -1,4 +1,4 @@
-const reversedStrings = require('../../arquivos/codewars/reversedStrings');
+const reversedStrings = require('../../files/codewars/reversedStrings');
 
 
 

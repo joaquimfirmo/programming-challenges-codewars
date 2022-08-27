@@ -1,4 +1,4 @@
-const rowSumOddNumbers = require('../../arquivos/codewars/rowSumOddNumbers');
+const rowSumOddNumbers = require('../../files/codewars/rowSumOddNumbers');
 
 
 test("Deve calcular a soma dos números na enésima linha deste triângulo", () => {

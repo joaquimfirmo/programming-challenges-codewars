@@ -1,4 +1,4 @@
-const findNexSquare = require('../../arquivos/codewars/findNextSquare')
+const findNexSquare = require('../../files/codewars/findNextSquare')
 
 
 

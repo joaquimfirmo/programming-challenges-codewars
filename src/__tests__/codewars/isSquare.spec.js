@@ -1,4 +1,4 @@
-const isSquare = require('../../arquivos/codewars/isSquare');
+const isSquare = require('../../files/codewars/isSquare');
 
 describe('Raiz quadrada', () => {
   test("Deve retornar 'true' quando passado um numero que tem a raiz quadrada perfeita", () => {

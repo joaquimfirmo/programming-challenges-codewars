@@ -8,4 +8,6 @@
 
 //const validade = require('./src/arquivos/codewars/validatePIN')
 //const hero = require('./src/arquivos/codewars/hero')
-// const squareSum = require('./src/arquivos/codewars/squareSum');
+const solution = require('./src/files/codewars/duplicateCount');
+
+console.log(solution('abbccatt11'))

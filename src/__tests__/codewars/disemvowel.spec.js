@@ -1,4 +1,4 @@
-const disemvowel = require("../../arquivos/codewars/disemvowel");
+const disemvowel = require("../../files/codewars/disemvowel");
 
 
 test("Deve retornar a string passado como paramento sem as vogais ", () => {

@@ -1,4 +1,4 @@
-const squareSum = require("../../arquivos/codewars/squareSum");
+const squareSum = require("../../files/codewars/squareSum");
 
 
 test("Deve retornar a soma dos quadrados dos numeros passados como paramentro", () => {

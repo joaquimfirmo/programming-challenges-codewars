@@ -1,4 +1,4 @@
-const grow = require('../../arquivos/codewars/grow');
+const grow = require('../../files/codewars/grow');
 
 
 test("Deve multiplicar os valores em ordem do array passado como parametro da funcao", () => {

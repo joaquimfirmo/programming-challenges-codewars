@@ -1,4 +1,4 @@
-const basicOp = require('../../arquivos/codewars/basicOp');
+const basicOp = require('../../files/codewars/basicOp');
 
 
 describe("Operações básicas", () => {

@@ -1,4 +1,4 @@
-const countSheeps = require("../../arquivos/codewars/countSheeps");
+const countSheeps = require("../../files/codewars/countSheeps");
 
 describe('Contando carneirinhos', () =>{
   test(`Deve contar todos os carneirinhos (valor : true) 

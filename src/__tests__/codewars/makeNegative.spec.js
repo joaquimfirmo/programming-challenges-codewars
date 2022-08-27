@@ -1,4 +1,4 @@
-const makeNegative = require('../../arquivos/codewars/makeNegative');
+const makeNegative = require('../../files/codewars/makeNegative');
 
 
 describe("Devolução Negativa", () => {

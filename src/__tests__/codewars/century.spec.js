@@ -1,4 +1,4 @@
-const century = require('../../arquivos/codewars/century')
+const century = require('../../files/codewars/century')
 
 
 describe("O seculo em que está", () => {

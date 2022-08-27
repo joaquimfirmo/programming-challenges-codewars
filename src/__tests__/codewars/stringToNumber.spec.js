@@ -1,4 +1,4 @@
-const stringToNumber = require("../../arquivos/codewars/stringToNumber");
+const stringToNumber = require("../../files/codewars/stringToNumber");
 
 
 test("Deve retonar uma string em um número", () => {

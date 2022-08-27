@@ -1,4 +1,4 @@
-const reverseSeq = require('../../arquivos/codewars/reverseSeq');
+const reverseSeq = require('../../files/codewars/reverseSeq');
 
 describe('Sequencia reversa', () =>{
     test('Deve retorna a sequencia regressiva do numero passado como paramentro', () =>{
