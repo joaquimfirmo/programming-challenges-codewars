@@ -5,5 +5,6 @@ describe("BMI (IMC)", () => {
       expect(bmi(58, 1.79)).toEqual('Underweight');
       expect(bmi(68,1.79)).toEqual('Normal');
       expect(bmi(168,1.79)).toEqual('Obese');
+      expect(bmi(95,1.79)).toEqual('Overweight');
     });
   });
